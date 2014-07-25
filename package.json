@@ -1,0 +1,19 @@
+{
+  "name": "xn-howler",
+  "version": "0.0.1",
+  "description": "Howls like a wolf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cwarden/xn-howler.git"
+  },
+  "author": "Christian G. Warden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwarden/xn-howler/issues"
+  },
+  "homepage": "https://github.com/cwarden/xn-howler"
+}
