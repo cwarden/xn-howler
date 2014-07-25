@@ -1,6 +1,6 @@
 {
   "name": "xn-howler",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Howls like a wolf",
   "main": "index.js",
   "scripts": {
