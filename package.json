@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cwarden/xn-howler/issues"
   },
-  "homepage": "https://github.com/cwarden/xn-howler"
+  "homepage": "https://github.com/cwarden/xn-howler",
+  "dependencies": {
+    "mespeak": "^1.4.4-c"
+  }
 }
